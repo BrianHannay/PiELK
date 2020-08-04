@@ -1,0 +1,8 @@
+input {
+        file {
+                path =>
+        }
+}
+grok {
+
+}
